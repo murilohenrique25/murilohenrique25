@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Murilo Henrique — Backend, Web e Mobile</title>
-<desc id="desc">Apresentação de Murilo Henrique, com tecnologias Java, Python, TypeScript e Dart e um diagrama conectando API, web e aplicativo.</desc>
+<title id="title">Murilo Henrique — Inteligência Artificial aplicada</title>
+<desc id="desc">Apresentação de Murilo Henrique com foco em IA aplicada, RAG, LangChain, LangGraph e pgvector, com um diagrama conectando dados, agentes e modelos de linguagem.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111e"/><stop offset="1" stop-color="#111e31"/></linearGradient>
  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
@@ -14,11 +14,11 @@
 <g font-family="Segoe UI,Arial,sans-serif">
  <rect x="54" y="42" width="42" height="32" rx="8" fill="#18323e" stroke="#2d5a61"/>
  <text x="75" y="64" text-anchor="middle" font-size="16" font-weight="700" fill="#5eead4">MH</text>
- <text x="111" y="64" font-size="15" letter-spacing="3" fill="#a7b7cb">DESENVOLVIMENTO DE SOFTWARE</text>
+ <text x="111" y="64" font-size="15" letter-spacing="3" fill="#a7b7cb">INTELIGÊNCIA ARTIFICIAL APLICADA</text>
  <text x="50" y="166" font-size="78" font-weight="750" letter-spacing="-3" fill="#f0f6fc">Murilo Henrique<tspan fill="#5eead4">.</tspan></text>
- <text x="55" y="213" font-size="29" fill="#bfcee0">Backend · Web · Mobile</text>
+ <text x="55" y="213" font-size="29" fill="#bfcee0">IA aplicada · Dados · Software</text>
  <rect x="55" y="245" width="57" height="4" rx="2" fill="url(#accent)"/>
- <text x="55" y="294" font-size="18" fill="#9db1ca" letter-spacing="2">JAVA / PYTHON / TYPESCRIPT / DART</text>
+ <text x="55" y="294" font-size="17" fill="#9db1ca" letter-spacing="1">RAG / LANGCHAIN / LANGGRAPH / PGVECTOR</text>
  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".75">
   <path d="M906 166 H880 V113 H842"/><path d="M906 188 H880 V260 H842"/>
   <path d="M1026 177 H1098" stroke-dasharray="4 6"/>
@@ -28,10 +28,10 @@
   <rect x="726" y="229" width="116" height="62" rx="13"/>
   <rect x="906" y="137" width="120" height="80" rx="16" stroke="#4ed8c3"/>
  </g>
- <text x="784" y="121" text-anchor="middle" font-size="23" font-weight="600" fill="#b7d8fa">WEB</text>
- <text x="784" y="269" text-anchor="middle" font-size="23" font-weight="600" fill="#b7d8fa">APP</text>
- <text x="966" y="187" text-anchor="middle" font-size="28" font-weight="700" fill="#5eead4">API</text>
+ <text x="784" y="121" text-anchor="middle" font-size="23" font-weight="600" fill="#b7d8fa">DADOS</text>
+ <text x="784" y="269" text-anchor="middle" font-size="19" font-weight="600" fill="#b7d8fa">AGENTES</text>
+ <text x="966" y="187" text-anchor="middle" font-size="28" font-weight="700" fill="#5eead4">LLM</text>
  <circle cx="1106" cy="177" r="7" fill="#5eead4"/>
- <text x="961" y="329" text-anchor="middle" font-family="Consolas,monospace" font-size="15" fill="#708aa9">&lt; ideias em código /&gt;</text>
+ <text x="961" y="329" text-anchor="middle" font-family="Consolas,monospace" font-size="15" fill="#708aa9">&lt; contexto vira solução /&gt;</text>
 </g>
 </svg>
